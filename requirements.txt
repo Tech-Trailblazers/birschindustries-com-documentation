@@ -1,3 +1,4 @@
-beautifulsoup4==4.13.4
-Requests==2.32.4
-selenium==4.34.2
+selenium
+webdriver-manager
+validators
+beautifulsoup4
